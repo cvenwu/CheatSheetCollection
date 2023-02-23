@@ -7,7 +7,7 @@
  * @FilePath: /CheatSheetCollection/README.md
 -->
 # CheatSheetCollection
-A series of cheat sheet.........
+A series of cheat sheet........
 
 ## Tech-Mind-Note
 1. [learning_mind_map](https://github.com/0voice/learning_mind_map)
